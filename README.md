@@ -31,3 +31,6 @@ For sending G-code arduino IDe can be used. For automatization I code a spesial 
 That's what can be written with this:
 
 ![My image](http://cs620627.vk.me/v620627171/19a00/lB3IpbR2rCg.jpg)
+
+If you have questions, ask them ^_^ 
+ryseek1@gmail.com
