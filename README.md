@@ -10,7 +10,6 @@ Bipolar stepper has 4 headers, 2 in pairs. It allows to step a small part of ful
 
 ![My image](http://i.stack.imgur.com/vfHqC.gif)
 
-Usually CD/floppy drive consitsts from stepper and some mechanic for optical reader. So you can get a platform, drived by stepper with almost zero efforts. All you need is to disassemble disk drive till that platform and connect some wires to it's stepper.
+Usually CD/floppy drive consitsts from stepper and some mechanic for optical reader. So you can get a platform, drived by stepper with almost zero efforts. All you need is to disassemble disk drive till that platform and connect some wires to it's stepper. Also this motors needs a stepper driver chip. In my project i use L293D chip. Here is an example of wiring up.
 
-
-TO BE CONTINUED 
+![My image](http://www.arduino-diy.com/wp-content/uploads/2015/07/Arduino_A298N_stepper.jpg)
